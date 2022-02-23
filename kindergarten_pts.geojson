@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "kindergarten_pts",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "address": "ул. Островитянова, 53к5", "cap": "144", "name": "ГБОУ школа № 17, дошкольное отделение № 3" }, "geometry": { "type": "Point", "coordinates": [ 408038.338140300882515, 6166702.806986181996763 ] } },
+{ "type": "Feature", "properties": { "id": 2, "address": "ул. Островитянова, 45А", "cap": "237", "name": "ГБОУ школа № 17, дошкольное отделение № 4" }, "geometry": { "type": "Point", "coordinates": [ 407945.295288381516002, 6166318.864503290504217 ] } },
+{ "type": "Feature", "properties": { "id": 3, "address": "ул. Островитянова, 41А", "cap": "231", "name": "ГБОУ школа № 17, дошкольное отделение № 5" }, "geometry": { "type": "Point", "coordinates": [ 407732.845365936984308, 6166199.202786459587514 ] } },
+{ "type": "Feature", "properties": { "id": 4, "address": "ул. Введенского, 27Б", "cap": "139", "name": "ГБОУ школа № 17, дошкольное отделение № 6" }, "geometry": { "type": "Point", "coordinates": [ 407647.704597692878451, 6166317.473874643445015 ] } },
+{ "type": "Feature", "properties": { "id": 5, "address": "ул. Введенского, 11А", "cap": "280", "name": "ГБОУ школа №49, дошкольное отделение" }, "geometry": { "type": "Point", "coordinates": [ 408414.890957272844389, 6167255.371703555807471 ] } },
+{ "type": "Feature", "properties": { "id": 6, "address": "ул. Введенского, 15А", "cap": "280", "name": "ГБОУ школа №49, дошкольное отделение" }, "geometry": { "type": "Point", "coordinates": [ 408367.952481639920734, 6167000.523391739465296 ] } },
+{ "type": "Feature", "properties": { "id": 7, "address": "ул. Миклухо-Маклая, д. 32к2", "cap": "140", "name": "ГБОУ школа № 17, дошкольное отделение № 2" }, "geometry": { "type": "Point", "coordinates": [ 407488.37051239120774, 6166985.302035551518202 ] } },
+{ "type": "Feature", "properties": { "id": 8, "address": "ул. Профсоюзная, д. 93В", "cap": "183", "name": "Школа №17, Дошкольное отделение №1" }, "geometry": { "type": "Point", "coordinates": [ 407327.434356440848205, 6166819.517302706837654 ] } },
+{ "type": "Feature", "properties": { "id": 9, "address": "Миклухо-Маклая дом 53", "cap": "240", "name": "Филиал ГБОУ МО НШДС № 737" }, "geometry": { "type": "Point", "coordinates": [ 407559.833001523395069, 6167274.43595521338284 ] } },
+{ "type": "Feature", "properties": { "id": 10, "address": "Генерала Антонова дом 6А", "cap": "240", "name": "ГБОУ школа №49, дошкольное отделение" }, "geometry": { "type": "Point", "coordinates": [ 407884.080939659033902, 6167360.191300556994975 ] } },
+{ "type": "Feature", "properties": { "id": 11, "address": "Введенского12 А", "cap": "243", "name": "ГБОУ города Москвы школа № 49 (детский сад)" }, "geometry": { "type": "Point", "coordinates": [ 408124.411280723521486, 6167450.361927312798798 ] } },
+{ "type": "Feature", "properties": { "id": 12, "address": "Бутлерова 26 А", "cap": "164", "name": "ГБОУ города Москвы школа № 49 (детский сад)" }, "geometry": { "type": "Point", "coordinates": [ 408045.848480170068797, 6167751.716937677934766 ] } }
+]
+}
